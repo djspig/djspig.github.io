@@ -1,2 +1,2 @@
-# djspig.github.io
+# dspig.github.io
 Personal website
